@@ -1,7 +1,8 @@
 
 # Diagrama Logica
 
-![image](https://github.com/user-attachments/assets/258db438-7890-4f33-86d0-e13e5efaf2de)
+![image](https://github.com/user-attachments/assets/e3656800-dc81-41c1-b7f9-74e3457ad2b0)
+
 
 
 # Design Mock-up
