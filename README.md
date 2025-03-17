@@ -6,7 +6,8 @@
 
 # Design Mock-up
 
-![image](https://github.com/user-attachments/assets/dd21b51f-7894-4336-b7d1-23d0a2d40912)
+![image](https://github.com/user-attachments/assets/1c603b4f-7282-4355-b447-438ef062889d)
+
 
 # Stack de technologii
    Versiune .NET: 8.0
