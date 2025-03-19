@@ -25,7 +25,8 @@ Solutia este formata din 2 proiecte :
 
 # Limitari 
 Aplicatia nu dispune de mecanism de import / export de date. Meniul de ingrediente este pre-populat in aplicatie.
-![image](https://github.com/user-attachments/assets/cdc3c770-2ad4-4247-9988-cbae359280b2)
+![image](https://github.com/user-attachments/assets/4bab1ce3-b555-4b33-8106-65a060a36e49)
+
 
 # Prezentarea Aplicatiei Grafice 
 
